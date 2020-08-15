@@ -86,7 +86,7 @@ Below we provide some expected behaviour from the app.
 Loading
 ![Screenshot_20200813_210928_com example ontoy](https://user-images.githubusercontent.com/54119843/90303448-a9d2ef00-de73-11ea-9110-4119a5326936.jpg)
 Standing Still
-![Screenshot_20200813_210928_com example ontoy](https://user-images.githubusercontent.com/54119843/90303448-a9d2ef00-de73-11ea-9110-4119a5326936.jpg)
+![Screenshot_20200813_211326_com example ontoy](https://user-images.githubusercontent.com/54119843/90303801-cae90f00-de76-11ea-88e7-9ec405074328.jpg)
 Traversing
 ![Screenshot_20200813_213516_com example ontoy](https://user-images.githubusercontent.com/54119843/90303457-beaf8280-de73-11ea-9da2-61fea7fe87bb.jpg)
 ![Screenshot_20200813_213519_com example ontoy](https://user-images.githubusercontent.com/54119843/90303460-c4a56380-de73-11ea-80f5-cd4d3ec101f5.jpg)
