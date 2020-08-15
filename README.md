@@ -61,6 +61,8 @@ c = 2 ⋅ atan2( √a, √(1−a) )
 d = R ⋅ c" 
 (Veness, 2020)
 
+This all happens internally however the time and distance information is not displayed until the user clics on "compute!". This is a button defined in the "mapa.xml" layout. It's behaviour is included in the "MainActivity.java" file in the function "onClic" which does the computation described above and prints it to the screen.
+
 Functions
 Location Callback: It gets notified with location changes or location indeterminations. It yields a LocationResult with which we can obtain latitude and longitude coordinates.
 
@@ -76,6 +78,8 @@ LocationBroadcastReciever: It listens to intents and extracts the latitude and l
 Data source
 An android phone will be our only data source. It is important that it has GPS activated and with the necessary permissions granted.
 
+Usage
+To use the application you just have to clic on the button "compute!"
 
 Results
 Tha application works mostly as expected. The biggest drawback is GPS feedback. There is generally a slight error with the exact location of the coordinates. Because of this we usually will get a velocity that is not precise. To counter this error, we have a parameter that detects if speed is very slow. If so, we assume it is due to GPS error and discard it as an unmoving object. This parameter will probably have to be fine tuned depending on the GPS on your individual phone. 
