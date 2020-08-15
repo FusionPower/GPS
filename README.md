@@ -93,10 +93,9 @@ Standing Still
 ![Screenshot_20200813_211326_com example ontoy](https://user-images.githubusercontent.com/54119843/90303801-cae90f00-de76-11ea-88e7-9ec405074328.jpg)
 Traversing
 ![Screenshot_20200813_213516_com example ontoy](https://user-images.githubusercontent.com/54119843/90303457-beaf8280-de73-11ea-9da2-61fea7fe87bb.jpg)
-![Screenshot_20200813_213519_com example ontoy](https://user-images.githubusercontent.com/54119843/90303460-c4a56380-de73-11ea-80f5-cd4d3ec101f5.jpg)
-![Screenshot_20200813_213627_com example ontoy](https://user-images.githubusercontent.com/54119843/90303462-ce2ecb80-de73-11ea-8661-e85ef08d11c8.jpg)
 ![Screenshot_20200813_213631_com example ontoy](https://user-images.githubusercontent.com/54119843/90303463-cff88f00-de73-11ea-9571-81024db2c16f.jpg)
-
+![Screenshot_20200813_213627_com example ontoy](https://user-images.githubusercontent.com/54119843/90303462-ce2ecb80-de73-11ea-8661-e85ef08d11c8.jpg)
+![Screenshot_20200813_213519_com example ontoy](https://user-images.githubusercontent.com/54119843/90303460-c4a56380-de73-11ea-80f5-cd4d3ec101f5.jpg)
 
 
 Conclusions
