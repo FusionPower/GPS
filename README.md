@@ -29,7 +29,7 @@ https://developer.android.com/studio
 You have to have kvm on your computer with the appropriate permissions. To do so you can follow the steps in this forum:
 https://stackoverflow.com/questions/37300811/android-studio-dev-kvm-device-permission-denied
 Through Android Studio, you can download any SDK not up to date.
-Make sure you have a virtual device installed. If you do not have one click on the following button:
+Make sure you have a virtual device installed. If you do not have one click on the AVD Manager shown below:
 ![Screenshot from 2020-08-14 19-36-45](https://user-images.githubusercontent.com/54119843/90303414-69737100-de73-11ea-9cad-90ab933b1142.png)
 Then clic on “Create Virtual Device”. You can select any device you want as long as you download the android version 9.0 or above. We recommend using the Pixel 3.
 
